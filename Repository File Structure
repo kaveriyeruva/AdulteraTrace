@@ -1,0 +1,8 @@
+AdulteraTrace/
+├── README.md
+├── firmware/
+│   └── food_analyzer/
+│       └── food_analyzer.ino
+└── backend/
+    ├── main.py
+    └── requirements.txt
